@@ -125,10 +125,8 @@ Four invisible walls surround the play area keeping the player within bounds. Pr
 
 ## 🐛 Known Issues
 
-- SphereCast ground detection may occasionally misfire on 
-  uneven terrain edges
-- Camera ground clamp applies a frame delay on sharp 
-  downward camera angles at maximum zoom
+- Player character's jump can be affected by the projectiles.
+- Player camera can get behind the wall.
 
 ## 📄 License
 
@@ -139,5 +137,5 @@ All Rights Reserved — not for redistribution.
 
 **Vinit Verma**
 - GitHub: [@VinitVerma06](https://github.com/VinitVerma06)
-- LinkedIn: [Vinit Verma](https://www.linkedin.com/in/vinit-verma-5908b8257/)
+- LinkedIn: [Vinit Verma](https://www.linkedin.com/in/vinitverma06/)
 - Email: vinit07verma06@gmail.com
